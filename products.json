@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Black Dress Shirt",
+        "price": 59.99,
+        "image": "Images/BlackShirt.png"
+    },
+    {
+        "id": 2,
+        "name": "White Dress Shirt",
+        "price": 59.99,
+        "image": "Images/WhiteShirt.png"
+    },
+    {
+        "id": 3,
+        "name": "Blue Dress Shirt",
+        "price": 59.99,
+        "image": "Images/BlueShirt.png"
+    },    
+    {
+        "id": 4,
+        "name": "Black Suit",
+        "price": 89.99,
+        "image": "Images/BlackSuit.png"
+    },
+    {
+        "id": 5,
+        "name": "Denim Jeans",
+        "price": 69.99,
+        "image": "Images/Jeans.png"
+    },
+    {
+        "id": 6,
+        "name": "Black Bowler Hat",
+        "price": 19.99,
+        "image": "Images/BlackHat.png"
+    },
+    {
+        "id": 7,
+        "name": "Blue Cap",
+        "price": 19.99,
+        "image": "Images/BlueCap.png"
+    },
+    {
+        "id": 8,
+        "name": "Black Sunglasses",
+        "price": 25.99,
+        "image": "Images/Sunglasses.png"
+    }
+]
